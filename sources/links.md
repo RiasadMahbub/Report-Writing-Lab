@@ -46,3 +46,10 @@ organization; genre tag in brackets.
 - [ODI — The IMF's Resilience and Sustainability Facility: Underused and Under Fire](https://odi.org/en/insights/the-imfs-resilience-and-sustainability-facility-underused-and-under-fire/) — `[think-tank commentary]`
 - [UN SEEA — IMF publishes second progress report, G20 DGI-3](https://seea.un.org/en/news/imf-publishes-second-progress-report-third-phase-g20-data-gaps-initiative-dgi-3) — `[institutional news update]`
 - [WRI — IMF Member Countries Conduct Climate-Informed Article IV Surveillance](https://www.wri.org/research/international-monetary-fund-member-countries-conduct-climate-informed-article-iv-surveillance) — `[research commentary]`
+
+## Disclosure frameworks & standards (a distinct genre — see `style-guides/disclosure-frameworks.md`)
+
+- [TCFD — Publications](https://www.fsb-tcfd.org/publications/) — `[disclosure framework, now retired/absorbed into IFRS]`
+- [UN — Transforming Our World: The 2030 Agenda for Sustainable Development](https://sdgs.un.org/2030agenda) — `[intergovernmental goal-setting declaration]`
+- [SASB Standards Navigator (IFRS Foundation)](https://navigator.sasb.ifrs.org/) — `[industry-specific disclosure standard]`
+- [GRI — Standards](https://www.globalreporting.org/standards/) — `[voluntary multi-stakeholder disclosure standard]`
